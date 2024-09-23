@@ -30,7 +30,7 @@ To use or modify this project:
 1. Clone the repository:
    bash
    git clone
-   
+   https://github.com/GargiShaw/ANALOG-CLOCK
    
 2. Open index.html in your browser to view the clock in action.
 
